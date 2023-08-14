@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
         ),
         initialRoute: LoginScreen.routeName,
         onGenerateRoute: AppRoutes.onGenerateRoute,
-
+//.
         // home: const MyHomePage(title: 'Flutter Demo Home Page'),
       );
     });
